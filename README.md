@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Myself Mohamed Afsal J pursuing my second year in KPR Institute of engineering and technology,Coimbatore.I am an Data Science.
 <!--
 **afsalJ/afsalJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
