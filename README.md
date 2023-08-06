@@ -1,5 +1,8 @@
 ### Hi there 👋
-Myself Mohamed Afsal J pursuing my second year in KPR Institute of engineering and technology,Coimbatore.I am an Data Science.
+Myself Mohamed Afsal J from India.I am currently pursuing my second year in KPR Institute of Engineering and Technology,Coimbatore. I decided to specialize in the domain data analtics with subdomain focus on Web delevlopment. I have created a kaggle account and worked on several proects in ML Models. I completed my internships at KGIT Services as an data analyst and at Techasoft as Front End Developer. The programming Languages I have learned on the specific domains are python,java,HTML,CSS,Bootstrap and basics of C programming. I always challenging myself to improve my problem solving skills by working on several tools such as HackerRank, LeetCode and HackerEarth. I am eager to do more projects to enhance my domain knowledge. I strive to maintain a positive and calm demeanor. 
+If you have doubts in any programs uploaded ,feel free to ask:-
+            Instagram:mxd__afsal (two underscores inbetween)
+            LinkedIn:Mohamed Afsal KPRIET
 <!--
 **afsalJ/afsalJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
